@@ -11,3 +11,9 @@
 12. One commit behind means that in Github there has been a commmit made that we haven't pulled into replit 
 
 17. two branches
+21. Screenshot 3- webdev, Screenshot 4- main, midterm2- answers 
+22. PHP
+23. CSS
+24. HTML 
+25. PHP 
+26. JavaScript 
