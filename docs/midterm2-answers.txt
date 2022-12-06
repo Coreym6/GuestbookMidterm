@@ -1,4 +1,8 @@
 2. No
 3. commit and push the changes to the replit version control 
 4.pushed it to github through version control
-5. 
+5.
+6.
+7.No 
+8.Pull
+9. did the action
